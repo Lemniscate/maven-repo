@@ -4,10 +4,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <archetypes>
     <archetype>
-	<groupId>org.springframework.data</groupId>
-	<artifactId>spring-data-commons</artifactId>
-	<version>1.8.0.FORK-SNAPSHOT</version>
-	<description>Forked Snapshot to support generic repository metadata.</description>
+      <groupId>com.github.lemniscate.stack</groupId>
+      <artifactId>boot-stack-archetype</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <description>boot-stack</description>
     </archetype>
   </archetypes>
 </archetype-catalog>

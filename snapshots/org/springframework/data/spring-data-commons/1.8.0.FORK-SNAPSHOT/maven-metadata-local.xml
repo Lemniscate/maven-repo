@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.data</groupId>
+  <artifactId>spring-data-commons</artifactId>
+  <version>1.8.0.FORK-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20140505015108</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.8.0.FORK-SNAPSHOT</value>
+        <updated>20140505015108</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.8.0.FORK-SNAPSHOT</value>
+        <updated>20140505015108</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.8.0.FORK-SNAPSHOT</value>
+        <updated>20140505015108</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

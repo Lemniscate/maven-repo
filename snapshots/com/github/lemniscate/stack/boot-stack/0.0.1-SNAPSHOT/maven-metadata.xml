@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.lemniscate.stack</groupId>
+  <artifactId>boot-stack</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140528.030613</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140528030613</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>0.0.1-20140528.030613-1</value>
+        <updated>20140528030613</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20140528.030613-1</value>
+        <updated>20140528030613</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

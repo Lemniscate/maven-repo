@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.lemniscate.stack</groupId>
+  <artifactId>boot-stack</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140528030615</lastUpdated>
+  </versioning>
+</metadata>

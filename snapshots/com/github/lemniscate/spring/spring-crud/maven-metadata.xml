@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.lemniscate.spring</groupId>
+  <artifactId>spring-crud</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140811015606</lastUpdated>
+  </versioning>
+</metadata>

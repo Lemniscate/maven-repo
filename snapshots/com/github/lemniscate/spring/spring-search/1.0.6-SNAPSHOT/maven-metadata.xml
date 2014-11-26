@@ -2,29 +2,29 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.github.lemniscate.spring</groupId>
   <artifactId>spring-search</artifactId>
-  <version>1.0.5-SNAPSHOT</version>
+  <version>1.0.6-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20141126.195417</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20141126.195535</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20141126195417</lastUpdated>
+    <lastUpdated>20141126195535</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.5-20141126.195417-2</value>
-        <updated>20141126195417</updated>
+        <value>1.0.6-20141126.195535-1</value>
+        <updated>20141126195535</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.5-20141126.195417-2</value>
-        <updated>20141126195417</updated>
+        <value>1.0.6-20141126.195535-1</value>
+        <updated>20141126195535</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0.5-20141126.195417-2</value>
-        <updated>20141126195417</updated>
+        <value>1.0.6-20141126.195535-1</value>
+        <updated>20141126195535</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

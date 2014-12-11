@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.lemniscate.spring</groupId>
+  <artifactId>spring-crud</artifactId>
+  <version>0.1.6-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20141211.195239</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20141211195239</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.6-20141211.195239-1</value>
+        <updated>20141211195239</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.6-20141211.195239-1</value>
+        <updated>20141211195239</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.1.6-20141211.195239-1</value>
+        <updated>20141211195239</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

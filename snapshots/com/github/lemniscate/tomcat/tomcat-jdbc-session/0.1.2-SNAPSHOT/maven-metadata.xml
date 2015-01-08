@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.lemniscate.tomcat</groupId>
+  <artifactId>tomcat-jdbc-session</artifactId>
+  <version>0.1.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150108.174405</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150108174405</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.2-20150108.174405-1</value>
+        <updated>20150108174405</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.2-20150108.174405-1</value>
+        <updated>20150108174405</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.1.2-20150108.174405-1</value>
+        <updated>20150108174405</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
